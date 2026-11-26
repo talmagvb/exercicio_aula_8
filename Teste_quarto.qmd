@@ -1,0 +1,21 @@
+---
+format:
+  nature-pdf:
+    journal:
+      cite-style: sn-mathphys-num
+    cite-method: natbib
+---
+
+**Gosto do número 8**
+
+```{r}
+6+2
+4*2
+sqrt(64)
+```
+
+**Gosto de penguins**
+
+```{r}
+library(palmerpenguins)
+```
