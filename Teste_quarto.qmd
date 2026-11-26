@@ -1,21 +1,21 @@
 ---
-format:
-  nature-pdf:
-    journal:
-      cite-style: sn-mathphys-num
-    cite-method: natbib
+title: "Untitled"
+format: html
+editor: visual
 ---
 
-**Gosto do número 8**
+**Gosto do número 7**
 
 ```{r}
-6+2
-4*2
-sqrt(64)
+5+2
+3.5*2
+sqrt(49)
 ```
 
 **Gosto de penguins**
 
 ```{r}
 library(palmerpenguins)
+dados <- penguins_raw
+View(dados)
 ```
